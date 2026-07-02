@@ -7,6 +7,12 @@
   ],
   "licenses": [
         {
+      "name": "HYPERMX",
+      "key": "HYPERMX765",
+      "expiry": "2026-08-02",
+      "mode": "vip"
+    },
+            {
       "name": "vibhshan",
       "key": "vibhshan2635",
       "expiry": "2026-08-02",
