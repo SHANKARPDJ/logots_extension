@@ -6,6 +6,12 @@
     }
   ],
   "licenses": [
+        {
+      "name": "vibhshan",
+      "key": "vibhshan2635",
+      "expiry": "2026-08-02",
+      "mode": "vip"
+    },
     {
       "name": "deepak",
       "key": "deepak2725",
