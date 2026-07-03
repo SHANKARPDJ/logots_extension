@@ -30,12 +30,7 @@
       "expiry": "2026-08-01",
       "mode": "vip"
     },
-        {
-      "name": "DEMO USER",
-      "key": "FREEDEMO",
-      "expiry": "2026-07-03",
-      "mode": ""
-    },
+
     {
       "name": "Sonu",
       "key": "SONU12456",
